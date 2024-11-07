@@ -1,0 +1,1732 @@
+
+
+FC 2665 - Comment déclarer la Prime de Partage de la Valeur ? 
+ 
+ CONTEXTE GENERAL  
+Les employeurs (des salariés du privé et des agents des établissements publics employant du 
+personnel de droit privé) peuvent attribuer jusqu’à deux primes d’un montant de plafond 
+d’exonération de 3 000 € par an et par bénéficiaire (plafond d’exonération porté à 6 000 € dans 
+les entreprises mettant en œuvre un accord d’intéressement ou de participation volontaire).  
+La prime de partage de la valeur (PPV) peut être versée en une ou plusieurs fois, dans la limite 
+d’une fois par trimestre, au cours de l’année civile. Cette prime peut être versée à tout 
+individu lié à son entreprise par un contrat de travail, aux intérimaires mis à disposition de 
+l’entreprise utilisatrice, aux agents publics relevant d’un établissement public ou aux 
+travailleurs handicapés liés à un ESAT par un contrat de soutien et d’aide par le travail.  
+Des exonérations, distinctes en fonction de la rémunération du bénéficiaire, de l’effectif de 
+l’entreprise et du moment de versement de la prime peuvent intervenir à compter du 1er 
+janvier 2024 et jusqu’au 31 décembre 2026.  
+La cotisation maladie due par les salariés résidant fiscalement à l’étranger n’est pas due, quel que 
+soit le montant de la rémunération du bénéficiaire de la PPV  
+  
+  
+Régime social et fiscal de la PPV   
+Jusqu'au 31/12/2023  
+En cas de versement entre le 01/01/2024 
+et le 31/12/2026  
+Rémunération 
+inférieure à 3 SMIC 
+annuel  
+Rémunération 
+supérieure ou égale 
+à 3 SMIC annuel  
+Rémunération 
+inférieure à 3 SMIC 
+annuel ET 
+entreprises de moins 
+de 50 salariés  
+Autres  
+Prime 
+versée  
+- Exonérée de 
+contributions et 
+cotisations sociales 
+ainsi que de la 
+contribution sociale 
+spécifique de Mayotte 
+le cas échéant.   
+- Exonérée d'impôt sur 
+le revenu (dans la 
+limite des plafonds 
+totaux d’exonération) 
+mais est prise en 
+compte pour le calcul 
+du revenu fiscal de 
+référence.  
+- Exonérée de 
+cotisations  sociales.   
+- Seules   la   CSG   et 
+CRDS   sont   dues.   
+- L’abattement pour 
+frais    professionnels 
+de 1,75% s’applique 
+dans  la  limite  de  4 
+plafonds  annuels  de 
+la  sécurité  sociale.   
+- La prime est 
+soumise    au    forfait 
+social au taux de 20% 
+pour  les  employeurs 
+de   250   salariés   et 
+plus.   
+- La  PPV  est  soumise 
+à  l’impôt  sur  le 
+revenu.   
+- A     Mayotte,     la 
+- Exonérée de 
+cotisations et 
+contributions 
+sociales   
+- Exonérée   d'impôt 
+sur le revenu (dans la 
+limite   des   plafonds 
+totaux 
+d’exonération)  mais 
+est  prise  en  compte 
+pour    le    calcul    du 
+revenu fiscal de 
+référence.  
+- Exonérée de 
+contribution    sociale 
+spécifique à 
+Mayotte.  
+  
+- Exonérée de 
+cotisations sociales.   
+- La PPV versée est 
+soumise à l’impôt sur 
+le revenu.   
+- La CSG et CRDS sont 
+dues.   
+- L’abattement pour 
+frais professionnels 
+de 1,75% s’applique 
+dans la limite de 4 
+plafonds annuels de 
+la sécurité sociale.   
+- La prime est 
+soumise au forfait 
+social au taux de 20% 
+pour les employeurs 
+de 250 salariés et 
+plus.   
+- A Mayotte, la 
+
+contribution    sociale 
+spécifique est due.  
+contribution sociale 
+spécifique est due.  
+Prime placée 
+sur un plan 
+d’épargne 
+salariale ou 
+un plan 
+d’épargne 
+retraite 
+d’entreprise  
+N/A  N/A  
+- Exonérée de 
+cotisations sociales.   
+- - Exonérée d'impôt 
+sur le revenu (dans la 
+limite des plafonds 
+totaux 
+d’exonération) mais 
+est prise en compte 
+pour le calcul du 
+revenu fiscal de 
+référence.  
+- Seules la CSG et 
+CRDS sont dues.   
+- L’abattement pour 
+frais professionnels 
+de 1,75% s’applique 
+dans la limite de 4 
+plafonds annuels de 
+la sécurité sociale.   
+- La prime est 
+soumise au forfait 
+social au taux de 20% 
+pour les employeurs 
+de 250 salariés et 
+plus.   
+- A Mayotte, la 
+contribution sociale 
+spécifique est due.  
+  
+ DECLARATION DE LA PPV EN DSN  
+o Choix des CTP Urssaf CN à utiliser (maille agrégée)   
+  
+La  datation  du  bloc  «  Bordereau  de  cotisation  due - S21.G00.22  »  devra  toujours  correspondre  à  la 
+période d’emploi à laquelle la prime est versée conformément à l’accord prévoyant les paiements 
+échelonnés de la prime  
+  
+Le montant global de  la prime versée est à déclarer au CTP 510, dont  le taux est  à 0%. De  ce fait  la 
+déclaration sous ce CTP est sans incidence sur le montant des cotisations dues.   
+Le CTP 510 doit être rattaché à la période de versement, même en cas de paiement fractionné.  
+  
+Selon les cas, la PPV peut-être partiellement soumise. Les cotisations sont à déclarer aux CTP suivants :  
+
+ CTP 260 pour la CSG/CRDS sur les montants de prime non exonérés  
+ CTP 012 pour le forfait social 20% est à utiliser pour déclarer le forfait social dû sur les 
+montants  de  prime  perçus  par  les  individus  employés  dans  des  entreprises  de  250 
+individus et plus et dont la rémunération est supérieure ou égale à 3 SMICs.  
+ CTP 251 pour la contribution spécifique Mayotte le cas échéant  
+  
+Si la prime est d’un montant supérieur aux plafonds d’exonération (3000€ ou 6000€ selon le cas), la 
+fraction  excédentaire  est  soumise  à  cotisations  dans les  conditions  habituelles. Elles  sont  à  déclarer 
+par les CTP habituels (par exemple le CTP 100).  
+  
+ Bloc « Prime, gratification et indemnité - S21.G00.52 » (maille nominative)  
+ 
+La PPV est à déclarer en bloc “ Primes, gratification et indemnités - S21.G00.52” grâce aux  types  ci-
+dessous en fonction des situations :   
+ « 904 – Prime de partage de la valeur exonérée socialement et non imposable »   
+ « 905 – Prime de partage de la valeur exonérée socialement et imposable »   
+ «  906 – Potentiel  nouveau  type  de  prime  A  »  si  la  PPV  est  placée  en  partie  ou 
+complètement et est soumise à CSG-CRDS.   
+Les PPV placées mais exonérées de cotisations sociales, de CSG-CRDS et d’impôt sur le revenu doivent 
+être déclarées avec le type 904.   
+ 
+En cas de dépassement du plafond d’exonération, la part soumise socialement de la PPV devra être 
+intégrée  à  la  rémunération brute  non  plafonnée  (Type  de  rémunération - S21.G00.51.011  =  001 - 
+Rémunération brute non plafonnée) et la part imposable à la rémunération nette fiscale (Rubrique « 
+Rémunération  nette  fiscale - S21.G00.50.002  »).  Elles  ne  devront  pas  être  déclarées  au  sein  de  la 
+rubrique « Montant – S21.G00.52.002 » pour les types « 904 - Prime de partage de la valeur exonérée 
+socialement  et  non  imposable  »,  et  «  905 - Prime  de  partage  de  la  valeur  exonérée  socialement  et 
+imposable ».  
+Le montant de la PPV versée dépassant le plafond d’exonération devra être déclaré en bloc « Prime, 
+gratification et indemnité - S21.G00.52 » à l’aide du type « 026 - Prime exceptionnelle liée à l'activité 
+avec période de rattachement spécifique » en rubrique « Type – S21.G00.51.001 ».  
+Pour le type « 906 - Potentiel nouveau type de prime A » (cas du placement d’une partie ou tout de la 
+PPV et soumise à CSG-CRDS) il faudra en revanche la déclarer en rubrique « Montant – S21.G00.52.002 
+» de type 906, en alimentant cette rubrique du montant de la PPV qui fait l’objet du placement et qui 
+est soumise à CSG-CRDS. En cas de placement partiel de la prime, seul le montant placé et soumis à 
+CSG-CRDS y est renseigné. 
+En  cas  de  multi  contrat  chez  un  même  employeur,  la PPV  est  à  rattacher  au  contrat  principal  de 
+l’individu (Date de début de contrat la plus ancienne ou quotité de travail la plus importante). Dans le 
+cas où les contrats auraient les mêmes dates de début de contrat et mêmes quotités de travail, charge 
+à l’employeur de choisir le contrat qui portera la PPV.   
+ 
+ Année de rattachement et date de versement à renseigner :   
+  
+Les rubriques « Date de début de la période de rattachement – S21.G00.52.003 » et « Date de fin de 
+la période de rattachement – S21.G00.52.004» doivent être obligatoirement renseignées, la DGFIP se 
+basant sur ces données pour rattacher la PPV au bon millésime fiscal.  
+  
+La rubrique « Date de versement d'origine - S21.G00.52.007 » doit être alimentée uniquement lorsque 
+l’accord ou la décision unilatérale de l’employeur (DUE) instituant  la  PPV  prévoit  les  dates  des 
+différents versements et que ces dates ne sont pas incluses dans cette période de rattachement. Ça 
+peut être notamment le cas lorsqu’il y a retard de versement.  
+
+ 
+ Bloc « Rémunération - S21.G00.51 » 
+Seul le montant de la PPV excédant le plafond d’exonération doit alimenter le bloc « Rémunération – 
+S21.G00.51 », de type « 001 - Rémunération brute non plafonnée ».  
+  
+Le montant de la PPV ne doit pas alimenter le bloc « Rémunération – S21.G00.51 » de  type  «  002- 
+Salaire brut servant aux calculs des droits de l'Assurance chômage » quel que soit le montant, compte 
+tenu de sa déclaration en bloc « Prime, gratification et indemnité - S21.G00.52 ».  
+ 
+ Versement d’une prime de partage de la valeur (PPV) de 3000€ à un salaire < 3 SMIC, 
+dans une entreprise de moins de 50 salariés  
+L’employeur, verse le 27 janvier 2024 une PPV de 3000 € à un individu percevant une rémunération 
+brute de 2000€ correspondant à un net fiscal de 1600€. Le taux de PAS que la DGFIP a communiqué à 
+son employeur est de 5%.   
+La prime bénéficie donc d’une exonération de cotisations et contributions sociales ainsi que d'impôt 
+sur le revenu (dans la limite des plafonds totaux d’exonération) mais est prise en compte pour le calcul 
+du revenu fiscal de référence comme indiqué dans le tableau récapitulatif au-dessus. 
+ 
+DSN de janvier 2024 :  
+ 
+S21.G00.22 - Bordereau de cotisation due  
+Code  Rubrique  Valorisation  
+S21.G00.22.001  
+Identifiant  Organisme  de  Protection 
+Sociale  
+Siret de l'Urssaf  
+S21.G00.22.002  Entité d'affectation des opérations  A renseigner si nécessaire  
+S21.G00.22.003  
+Date    de    début    de    période    de 
+rattachement  
+01012024 
+S21.G00.22.004  
+Date     de     fin     de     période     de 
+rattachement  
+31012024 
+S21.G00.22.005  Montant total de cotisations  
+Montant total de cotisations et 
+contributions  
+ 
+S21.G00.23 – cotisation agrégée  
+Code   Rubrique  Valorisation  
+S21.G00.23.001  Code de cotisation  510  
+S21.G00.23.002  Qualifiant d'assiette  920  
+S21.G00.23.003  Taux de cotisation  Non renseigné  
+S21.G00.23.004  Montant d'assiette  3000.00  
+S21.G00.23.005  Montant de cotisation  Non renseigné  
+ 
+S21.G00.50 - Versement individu  
+Code  Rubrique  Valorisation  
+S21.G00.50.001  Date de versement  27012024 
+
+S21.G00.50.002  Rémunération nette fiscale  
+1600.00 (le montant de la prime n'est 
+pas à ajouter)  
+S21.G00.50.006  Taux de prélèvement à la source  5.00 (%)  
+S21.G00.50.007  
+Type  du  taux  de  prélèvement  à  la 
+source  
+01 (taux transmis par la DGFIP)  
+S21.G00.50.008  
+Identifiant du taux de prélèvement à 
+la source  
+12345678 (valeur d'exemple)  
+S21.G00.50.009  Montant de prélèvement à la source  80.00 (euros)  
+ 
+S21.G00.51 - Rémunération  
+Code  Rubrique  Valorisation  
+S21.G00.51.001  
+Date  de  début  de  période  de 
+paie  
+01012024 
+S21.G00.51.002  Date de fin de période de paie  31012024 
+S21.G00.51.010  Numéro du contrat  00001 (numéro de contrat du salarié)  
+S21.G00.51.011  Type  001 (Rémunération brute non plafonnée)  
+S21.G00.51.013  Montant  
+2000.00 (le montant de prime n'est pas à 
+ajouter)  
+ 
+S21.G00.51 - Rémunération  
+Code  Rubrique  Valorisation  
+S21.G00.51.001  
+Date de début de période 
+de paie  
+01012024 
+S21.G00.51.002  
+Date de fin de période de 
+paie  
+31012024 
+S21.G00.51.010  Numéro du contrat  00001 (numéro de contrat du salarié)  
+S21.G00.51.011  Type  
+002 (Salaire brut servant aux calculs des droits 
+de l'Assurance chômage) 
+S21.G00.51.013  Montant  2000.00 (le montant de prime n'est pas à ajouter  
+ 
+S21.G00.51 - Rémunération  
+Code  Rubrique  Valorisation  
+S21.G00.51.001  
+Date  de  début  de  période  de 
+paie  
+01012024 
+S21.G00.51.002  Date de fin de période de paie  31012024 
+S21.G00.51.010  Numéro du contrat  00001 (numéro de contrat du salarié) 
+S21.G00.51.011  Type  003 (Salaire rétabli reconstitué) 
+S21.G00.51.013  Montant  
+2000.00 (le montant de prime n'est pas à 
+ajouter  
+ 
+S21.G00.51 - Rémunération  
+Code  Rubrique  Valorisation  
+
+S21.G00.51.001  
+Date  de  début  de  période  de 
+paie  
+01012024 
+S21.G00.51.002  Date de fin de période de paie  31012024 
+S21.G00.51.010  Numéro du contrat  00001 (numéro de contrat du salarié) 
+S21.G00.51.011  Type  010 (Salaire de base) 
+S21.G00.51.013  Montant  
+2000.00 (le montant de prime n'est pas à 
+ajouter)  
+ 
+S21.G00.52 - Prime, gratification et indemnité  
+Code  Rubrique  Valorisation  
+S21.G00.52.001  Type  
+904 - Prime de partage de la valeur exonérée 
+socialement et non imposable  
+S21.G00.52.002  Montant  3000.00  
+S21.G00.52.003  
+Date de début de la période de 
+rattachement  
+01012024 
+S21.G00.52.004  
+Date  de  fin  de  la  période  de 
+rattachement  
+31012024 
+S21.G00.52.006  Numéro du contrat  00001 (numéro de contrat du salarié)  
+S21.G00.52.007  Date de versement d'origine  [Non renseignée]  
+ 
+ Versement d’une prime de partage de la valeur (PPV) de 3000€ pour un salaire > 3 SMIC, 
+dans une entreprise de plus de 250 salariés  
+ 
+L’employeur, verse en janvier 2024 la prime de partage de la valeur d'un montant de 3000 euros à un 
+individu percevant une rémunération brute de 6000€ correspondant à un net fiscal de 4800 euros. Le 
+taux de PAS que la DGFIP a communiqué à son employeur est de 15%.   
+La prime est partiellement exonérée et reste soumise à la CSG/CRDS, au forfait social 20% et à l'impôt 
+sur le revenu.  
+ 
+DSN de janvier 2024 
+ 
+S21.G00.22 - Bordereau de cotisation due  
+Code  Rubrique  Valorisation  
+S21.G00.22.001  
+Identifiant  Organisme  de  Protection 
+Sociale  
+Siret de l'Urssaf  
+S21.G00.22.002  Entité d'affectation des opérations  A renseigner si nécessaire  
+S21.G00.22.003  
+Date    de    début    de    période    de 
+rattachement  
+01012024  
+S21.G00.22.004  
+Date     de fin     de     période     de 
+rattachement  
+31012024  
+S21.G00.22.005  Montant total de cotisations  
+Montant total de cotisations et 
+contributions  
+ 
+S21.G00.23 – cotisation agrégée  
+Code   Rubrique  Valorisation  
+
+S21.G00.23.001  Code de cotisation  510  
+S21.G00.23.002  Qualifiant d'assiette  920  
+S21.G00.23.003  Taux de cotisation  Non renseigné  
+S21.G00.23.004  Montant d'assiette  3000.00  
+S21.G00.23.005  Montant de cotisation  Non renseigné  
+ 
+S21.G00.23 – cotisation agrégée  
+Code   Rubrique  Valorisation  
+S21.G00.23.001  Code de cotisation  260  
+S21.G00.23.002  Qualifiant d'assiette  920  
+S21.G00.23.003  Taux de cotisation  Non renseigné  
+S21.G00.23.004  Montant d'assiette  8843.00  
+S21.G00.23.005  Montant de cotisation  Non renseigné  
+ 
+S21.G00.23 – cotisation agrégée  
+Code   Rubrique  Valorisation  
+S21.G00.23.001  Code de cotisation  012  
+S21.G00.23.002  Qualifiant d'assiette  920  
+S21.G00.23.003  Taux de cotisation  Non renseigné  
+S21.G00.23.004  Montant d'assiette  3000.00  
+S21.G00.23.005  Montant de cotisation  Non renseigné  
+ 
+S21.G00.50 - Versement individu  
+Code  Rubrique  Valorisation  
+S21.G00.50.001  Date de versement  27012024  
+S21.G00.50.002  Rémunération nette fiscale  
+7599.57 (euros) [(4800+3000 - (3000 x 
+0.9825 x 0.068)]  
+S21.G00.50.006  Taux de prélèvement à la source  15.00 (%)  
+S21.G00.50.007  
+Type  du  taux  de  prélèvement  à  la 
+source  
+01 (taux transmis par la DGFIP)  
+S21.G00.50.008  
+Identifiant du taux de prélèvement à 
+la source  
+12345678 (valeur d'exemple)  
+S21.G00.50.009  
+Montant    de    prélèvement    à    la 
+source  
+1139.94(euros)  
+ 
+S21.G00.51 - Rémunération  
+Code  Rubrique  Valorisation  
+S21.G00.51.001  
+Date  de  début  de  période  de 
+paie  
+01012024  
+S21.G00.51.002  Date de fin de période de paie  31012024  
+S21.G00.51.010  Numéro du contrat  00001 (numéro de contrat du salarié)  
+S21.G00.51.011  Type  001 (Rémunération brute non plafonnée)  
+
+S21.G00.51.013  Montant  
+6000.00(le montant de prime n'est pas à 
+ajouter)  
+ 
+S21.G00.51 - Rémunération  
+Code  Rubrique  Valorisation  
+S21.G00.51.001  
+Date de début de période 
+de paie  
+01012024  
+S21.G00.51.002  
+Date de fin de période de 
+paie  
+31012024  
+S21.G00.51.010  Numéro du contrat  00001 (numéro de contrat du salarié)  
+S21.G00.51.011  Type  
+002 (Salaire brut servant aux calculs des droits 
+de l'Assurance chômage)  
+S21.G00.51.013  Montant  6000.00(le montant de prime n'est pas à ajouter)  
+ 
+S21.G00.51 - Rémunération  
+Code  Rubrique  Valorisation  
+S21.G00.51.001  
+Date  de  début  de  période  de 
+paie  
+01012024  
+S21.G00.51.002  Date de fin de période de paie  31012024  
+S21.G00.51.010  Numéro du contrat  00001 (numéro de contrat du salarié)  
+S21.G00.51.011  Type  003 (Salaire rétabli reconstitué)  
+S21.G00.51.013  Montant  
+6000.00(le montant de prime n'est pas à 
+ajouter)  
+ 
+S21.G00.51 - Rémunération  
+Code  Rubrique  Valorisation  
+S21.G00.51.001  
+Date  de  début  de  période  de 
+paie  
+01012024  
+S21.G00.51.002  Date de fin de période de paie  31012024 
+S21.G00.51.010  Numéro du contrat  00001 (numéro de contrat du salarié)  
+S21.G00.51.011  Type  010 (Salaire de base)  
+S21.G00.51.013  Montant  
+6000.00(le montant de prime n'est pas à 
+ajouter)  
+ 
+S21.G00.52 - Prime, gratification et indemnité  
+Code  Rubrique  Valorisation  
+S21.G00.52.001  Type  
+905 - Prime de partage de la valeur exonérée 
+socialement et imposable  
+S21.G00.52.002  Montant  3000.00   
+S21.G00.52.003  
+Date de début de la période de 
+rattachement  
+01012024 
+S21.G00.52.004  
+Date  de  fin  de  la  période  de 
+rattachement  
+31012024 
+S21.G00.52.006  Numéro du contrat  00001 (numéro de contrat du salarié)  
+S21.G00.52.007  Date de versement d'origine  [Non renseignée]  
+ 
+
+S21.G00.78 - Base assujettie  
+Code  Rubrique  Valorisation  
+S21.G00.78.001  Code base assujettie  
+04 (Assiette de la contribution sociale 
+généralisée)  
+S21.G00.78.002  Montant  8842.50 ((6000 + 3000) X 0.9825)  
+S21.G00.78.003  
+Date   de   début   de   période   de 
+rattachement  
+01012024 
+S21.G00.78.004  
+Date    de    fin    de    période    de 
+rattachement  
+31012024 
+S21.G00.78.006  Numéro de contrat  (Non renseignée)  
+ 
+S21.G00.81 - Cotisation individuelle  
+Code  Rubrique  Valorisation  
+S21.G00.81.001  Code cotisation  
+073 - CSG/CRDS sur participation intéressement 
+épargne salariale  
+S21.G00.81.002  
+Identifiant 
+Organisme   
+de Protection 
+Sociale  
+SIRET URSAFF ou DMSAXX  
+S21.G00.81.003  Montant d'assiette  8842.50 ((6000 + 3000) X 0.9825)  
+S21.G00.81.004  
+Montant de 
+cotisation  
+813.51  
+S21.G00.81.007  Taux de cotisation  9.20  
+ 
+S21.G00.81 - Cotisation individuelle  
+Code  Rubrique  Valorisation  
+S21.G00.81.001  Code cotisation  
+079 - Remboursement de la dette 
+sociale  
+S21.G00.81.002  
+Identifiant   Organisme de   Protection 
+Sociale  
+SIRET URSAFF ou DMSAXX  
+S21.G00.81.003  Montant d'assiette  8842.50 ((6000 + 3000) X 0.9825)  
+S21.G00.81.004  Montant de cotisation  44.21  
+S21.G00.81.007  Taux de cotisation  0.50  
+ 
+S21.G00.78 - Base assujettie  
+Code  Rubrique  Valorisation  
+S21.G00.78.001  Code base assujettie  05 - Assiette du forfait social 
+S21.G00.78.002  Montant  3000.00  
+S21.G00.78.003  Date de début de période de rattachement  01012024 
+S21.G00.78.004  Date de fin de période de rattachement  31012024 
+S21.G00.78.006  Numéro de contrat  (Non renseignée)  
+ 
+S21.G00.81 - Cotisation individuelle  
+Code  Rubrique  Valorisation  
+S21.G00.81.001  Code cotisation  071 - Contribution forfait social  
+
+S21.G00.81.002  
+Identifiant 
+ Organisme de Protection Sociale  
+SIRET URSAFF ou DMSAXX  
+S21.G00.81.003  Montant d'assiette  3000.00  
+S21.G00.81.004  Montant de cotisation  600.00  
+S21.G00.81.007  Taux de cotisation  20.00  
+ 
+ Versement d’une prime de partage de la valeur (PPV) de 4000€ pour un salaire < 3 SMIC, 
+dans  une entreprise  de  moins  de  50  salariés  sans  accord  de  participation  volontaire  ni 
+d’intéressement   
+ 
+L’employeur, verse une PPV de 4000 € à un individu percevant une rémunération brute de 2000€ 
+correspondant à un net fiscal de 1600€. Le taux de PAS que la DGFIP a communiqué à son employeur 
+est de 5%.  
+L’employeur n’a pas mis en place d’accord de participation volontaire ni d’accord d’intéressement, 
+L’exonération ne s’appliquant que pour 3000€, les 1000€ complémentaires sont soumis à cotisations 
+et imposables, comme toute prime exceptionnelle.  
+  
+La décision unilatérale de l’employeur (DUE) instituant la PPV prévoit de verser la prime en 2 fois : 
+2000 euros en juillet 2024 et 2000 euros en décembre.  
+Les deux dates de versements correspondant à juillet et de décembre étant prévues par la DUE, la 
+rubrique « Date de versement d'origine - S21.G00.52.007 » ne sera ici pas alimentée.   
+ 
+DSN de décembre 2024  
+ 
+S21.G00.22 - Bordereau de cotisation due  
+Code  Rubrique  Valorisation  
+S21.G00.22.001  
+Identifiant  Organisme  de  Protection 
+Sociale  
+Siret de l'Urssaf  
+S21.G00.22.002  Entité d'affectation des opérations  A renseigner si nécessaire  
+S21.G00.22.003  
+Date    de    début    de    période    de 
+rattachement  
+01122024 
+S21.G00.22.004  
+Date     de     fin     de     période     de 
+rattachement  
+31122024 
+S21.G00.22.005  Montant total de cotisations  
+Montant total de cotisations et 
+contributions  
+ 
+S21.G00.23 – cotisation agrégée  
+Code   Rubrique  Valorisation  
+S21.G00.23.001  Code de cotisation  100  
+S21.G00.23.002  Qualifiant d'assiette  920  
+S21.G00.23.003  Taux de cotisation  A renseigner  
+S21.G00.23.004  Montant d'assiette  
+3000.00 [1000.00 correspondant à la partie de la PPV 
+excédant le plafond d’exonération + 2000 de 
+rémunération] 
+S21.G00.23.005  Montant de cotisation  Non renseigné  
+S21.G00.23.006  
+Code INSEE 
+commune  
+Non renseigné  
+ 
+
+S21.G00.23 – cotisation agrégée  
+Code   Rubrique  Valorisation  
+S21.G00.23.001  
+Code de 
+cotisation  
+510  
+S21.G00.23.002  
+Qualifiant 
+d'assiette  
+920  
+S21.G00.23.003  
+Taux de 
+cotisation  
+Non renseigné  
+S21.G00.23.004  
+Montant 
+d'assiette  
+1000.00 [Correspondant à la partie de la PPV exonérée de 
+cotisations sociales versé en décembre]   
+S21.G00.23.005  
+Montant de 
+cotisation  
+Non renseigné  
+ 
+S21.G00.50 - Versement individu  
+Code  Rubrique  Valorisation  
+S21.G00.50.001  Date de versement  27122024  
+S21.G00.50.002  Rémunération nette fiscale  
+2533.19 [1600.00 + 1000 - (1000 x 
+0.9825 x 0.068)] 
+S21.G00.50.006  Taux de prélèvement à la source  5.00 (%)  
+S21.G00.50.007  
+Type  du  taux  de  prélèvement  à  la 
+source  
+01 (taux transmis par la DGFIP)  
+S21.G00.50.008  
+Identifiant du taux de prélèvement à la 
+source  
+12345678 (valeur d'exemple)  
+S21.G00.50.009  Montant de prélèvement à la source  126.66 (euros)  
+ 
+S21.G00.51 - Rémunération  
+Code  Rubrique  Valorisation  
+S21.G00.51.001  
+Date    de    début    de 
+période de paie  
+ 01122024 
+S21.G00.51.002  
+Date  de fin  de  période 
+de paie  
+31122024 
+S21.G00.51.010  Numéro du contrat  00001 (numéro de contrat du salarié)  
+S21.G00.51.011  Type  001 (Rémunération brute non plafonnée)  
+S21.G00.51.013  Montant  
+3000.00 [2000 de rémunération + 1000 de PPV 
+excédant le plafond d’exonération]  
+ 
+S21.G00.51 - Rémunération  
+Code  Rubrique  Valorisation  
+S21.G00.51.001  
+Date de début de période 
+de paie  
+01122024 
+S21.G00.51.002  
+Date de fin de période de 
+paie  
+31122024 
+S21.G00.51.010  Numéro du contrat  00001 (numéro de contrat du salarié) 
+S21.G00.51.011  Type  
+002 (Salaire brut servant aux calculs des droits 
+de l'Assurance chômage) 
+S21.G00.51.013  Montant  2000.00 
+ 
+
+S21.G00.51 - Rémunération  
+Code  Rubrique  Valorisation  
+S21.G00.51.001  Date de début de période de paie  01122024 
+S21.G00.51.002  Date de fin de période de paie  31122024 
+S21.G00.51.010  Numéro du contrat  00001 (numéro de contrat du salarié) 
+S21.G00.51.011  Type  003 (Salaire rétabli reconstitué) 
+S21.G00.51.013  Montant  2000.00 
+ 
+S21.G00.51 - Rémunération  
+Code  Rubrique  Valorisation  
+S21.G00.51.001  Date de début de période de paie  01122024 
+S21.G00.51.002  Date de fin de période de paie  31122024 
+S21.G00.51.010  Numéro du contrat  00001 (numéro de contrat du salarié) 
+S21.G00.51.011  Type  010 (Salaire de base   
+S21.G00.51.013  Montant  2000.00 
+ 
+S21.G00.52 - Prime, gratification et indemnité  
+Code  Rubrique  Valorisation  
+S21.G00.52.001  Type  
+904 - Prime de partage de la valeur exonérée 
+socialement et non imposable   
+S21.G00.52.002  Montant  
+1000.00 [Seule la partie n’excédant pas le 
+plafond est à renseigner]   
+S21.G00.52.003  
+Date  de  début  de  la  période 
+de rattachement  
+01122024 
+S21.G00.52.004  
+Date  de  fin  de  la  période  de 
+rattachement  
+31122024  
+S21.G00.52.006  Numéro du contrat  00001 (numéro de contrat du salarié)  
+S21.G00.52.007  Date de versement d'origine  Non renseigné  
+ 
+ 
+ Versement d’une prime de partage de la valeur (PPV) de 4000€ pour un salaire > 3 SMIC, 
+dans une entreprise de plus de 250 salariés sans accord d’intéressement   
+ 
+L’employeur, verse une PPV de 4000 € à un individu percevant une rémunération brute de 6000€ 
+correspondant à un net fiscal de 4800 euros. Le taux de PAS que la DGFIP a communiqué à l’employeur 
+est de 15%.   
+  
+Cet employeur n’a pas  mis  en  place  un  accord d’accord d’intéressement, le régime social et fiscal 
+s’appliquant est donc :  
+ La prime à hauteur de 3000€ est soumise à la CSG/CRDS, au forfait social 20% et à l'impôt 
+sur le revenu  
+ Les 1000€ complémentaires sont soumis à cotisations et imposables  
+  
+La décision unilatérale de l’employeur (DUE) instituant la PPV prévoit de verser la prime en 2 fois : 
+2000 euros en juillet 2024 et 2000 euros en décembre.  
+
+Les deux dates de versements de juillet et de décembre étant prévues par la DUE, la rubrique « Date 
+de versement d'origine – S21.G00.52.007» ne sera pas alimentée   
+N’est traitée dans cet exemple que la déclaration DSN de décembre 2024. Les modalités déclaratives 
+du mois de juillet correspondent à l’exemple 2 ci-dessus.  
+  
+Sur le premier versement il n’y a pas de dépassement de plafond nous renvoyons donc à l’exemple 2 
+de la fiche. 
+  
+DSN de décembre 2024   
+ 
+S21.G00.22 - Bordereau de cotisation due   
+Code  Rubrique   Valorisation   
+S21.G00.22.001   Identifiant Organisme de Protection Sociale   
+Siret de l'Urssaf  
+  
+S21.G00.22.002    Entité d'affectation des opérations  
+A renseigner si nécessaire  
+  
+S21.G00.22.003   
+Date de début de période de rattachement   
+01122024  
+ S21.G00.22.004   Date de fin de période de rattachement   
+31122024  
+S21.G00.22.005    Montant total de cotisations   
+Montant total des cotisations  
+ 
+S21.G00.23 – Cotisation agrégée   
+Code    Rubrique   Valorisation   
+S21.G00.23.001  Code de cotisation   
+012  
+S21.G00.23.002   Qualifiant d'assiette   
+920  
+S21.G00.23.003   Taux de cotisation   
+Non renseigné  
+S21.G00.23.004   Montant d'assiette   
+1000.00 (prime partiellement 
+exonérée)   
+S21.G00.23.005    Montant de cotisation   
+Non renseigné  
+  
+S21.G00.23 – Cotisation agrégée   
+Code    Rubrique   Valorisation   
+S21.G00.23.001  Code de cotisation   
+100   
+S21.G00.23.002   Qualifiant d'assiette  
+920   
+S21.G00.23.003   Taux de cotisation   
+Non renseigné  
+S21.G00.23.004   Montant d'assiette   
+7000.00 (salaire brut + prime 
+soumise)   
+S21.G00.23.005    Montant de cotisation   
+Non renseigné  
+  
+S21.G00.23 – Cotisation agrégée   
+Code    Rubrique   Valorisation   
+S21.G00.23.001  Code de cotisation   
+260  
+S21.G00.23.002   Qualifiant d'assiette   
+920  
+S21.G00.23.003   Taux de cotisation   
+Non renseigné  
+S21.G00.23.004   Montant d'assiette   
+7860  
+S21.G00.23.005    Montant de cotisation   
+Non renseigné  
+  
+S21.G00.23 – Cotisation agrégée   
+Code    Rubrique   Valorisation   
+
+S21.G00.23.001  Code de cotisation   
+510  
+S21.G00.23.002   Qualifiant d'assiette   
+920  
+S21.G00.23.003   Taux de cotisation   
+Non renseigné  
+S21.G00.23.004   Montant d'assiette   
+1000.00 (prime partiellement exonérée)   
+S21.G00.23.005    Montant de cotisation   
+Non renseigné  
+ 
+S21.G00.50 - Versement individu   
+Code   Rubrique   Valorisation   
+S21.G00.50.001   Date de versement   
+ 27122024  
+S21.G00.50.002   Rémunération nette fiscale   
+6666.38 (4800+2000-
+(2000x0.9825x0.068)  
+S21.G00.50.006   Taux de prélèvement à la source   
+15.00 (%)  
+S21.G00.50.007   Type du taux de prélèvement à la source   
+01 (taux transmis par la DGFIP)  
+  
+S21.G00.50.008   
+   
+Identifiant  du  taux  de  prélèvement  à  la 
+source   
+12345678 (valeur d'exemple)  
+S21.G00.50.009   Montant de prélèvement à la source   
+999.96(euros) 
+ 
+S21.G00.51 - Rémunération   
+Code   Rubrique   Valorisation   
+S21.G00.51.001   
+Date  de  début  de  période 
+de paie   
+01122024  
+S21.G00.51.002   
+Date  de  fin  de  période  de 
+paie   
+31122024 
+ S21.G00.51.010   Numéro du contrat   
+00001 (numéro de contrat du salarié)   
+ S21.G00.51.011   Type   
+001 (Rémunération brute non plafonnée)   
+S21.G00.51.013   Montant   
+ 7000.00 (le montant de PPV partiellement exo 
+n'est pas à ajouter) 
+ 
+S21.G00.51 - Rémunération   
+Code   Rubrique   Valorisation   
+S21.G00.51.001   
+Date    de    début    de 
+période de paie   
+01122024 
+S21.G00.51.002   
+Date  de  fin  de  période 
+de paie   
+31122024 
+S21.G00.51.010   Numéro du contrat   
+00001 (numéro de contrat du salarié)  
+S21.G00.51.011   
+  
+Type   
+002 (Salaire brut servant aux calculs des droits de 
+l'Assurance chômage)   
+S21.G00.51.013   Montant   
+6000.00 (les primes sont à déclarer en bloc “Prime, 
+gratification et indemnité - S21.G00.52”)  
+ 
+S21.G00.51 - Rémunération   
+Code   Rubrique   
+Valorisation   
+S21.G00.51.001   
+Date de  début  de  période  de 
+paie   
+01122024 
+S21.G00.51.002   Date de fin de période de paie   
+31122024 
+S21.G00.51.010   Numéro du contrat   
+00001 (numéro de contrat du salarié)   
+S21.G00.51.011   Type   
+003 (Salaire rétabli reconstitué)   
+
+S21.G00.51.013   Montant   
+ 6000.00 (le montant de prime n'est pas à 
+ajouter)  
+ 
+S21.G00.51 - Rémunération   
+Code   Rubrique   Valorisation   
+S21.G00.51.001   
+Date  de  début  de  période  de 
+paie   
+01122024 
+S21.G00.51.002   Date de fin de période de paie   
+31122024 
+  
+S21.G00.51.010   
+Numéro du contrat   
+00001 (numéro de contrat du salarié)   
+S21.G00.51.011   Type   
+010 (Salaire de base)   
+S21.G00.51.013   Montant   
+6000.00 (le montant de prime n'est pas à 
+ajouter) 
+ 
+S21.G00.52 - Prime, gratification et indemnité   
+Code   Rubrique   Valorisation   
+S21.G00.52.001   Type   
+905 - Prime de partage de la valeur exonérée 
+socialement et imposable  
+  
+S21.G00.52.002   
+  Montant   
+1000.00  
+S21.G00.52.003   
+Date de début de la période de 
+rattachement   
+01122024 
+S21.G00.52.004   
+Date  de  fin  de  la  période  de 
+rattachement   
+31122024 
+S21.G00.52.006   Numéro du contrat   
+00001 (numéro de contrat du salarié) 
+S21.G00.52.007   Date de versement d'origine   
+[Non renseignée]  
+ 
+S21.G00.52 - Prime, gratification et indemnité   
+Code   Rubrique   Valorisation   
+S21.G00.52.001   Type   
+026 - Prime exceptionnelle liée à l'activité avec 
+période de rattachement spécifique  
+  
+S21.G00.52.002   
+  Montant   
+1000.00   
+S21.G00.52.003   
+Date  de  début  de  la  période 
+de rattachement   
+01122024  
+S21.G00.52.004   
+  
+Date  de  fin  de  la  période  de 
+rattachement   
+31122024  
+S21.G00.52.006   Numéro du contrat   
+00001 (numéro de contrat du salarié)   
+S21.G00.52.007   Date de versement d'origine   
+[Non renseignée]   
+ 
+S21.G00.78 - Base assujettie   
+Code   Rubrique   
+Valorisation   
+S21.G00.78.001   Code base assujettie   
+04 (Assiette de la contribution sociale 
+généralisée) 
+ S21.G00.78.002   Montant   
+7860 (8000 X 0.9825)   
+S21.G00.78.003   
+Date   de   début   de   période   de 
+rattachement   
+01122024 
+S21.G00.78.004   
+Date    de     fin    de     période     de 
+rattachement   
+31122024 
+
+S21.G00.78.006   Numéro de contrat   
+(Non renseignée)   
+ 
+S21.G00.81 - Cotisation individuelle   
+Code   
+  
+Rubrique   
+Valorisation   
+S21.G00.81.001   Code cotisation   
+073 - CSG/CRDS sur participation 
+intéressement épargne salariale  
+S21.G00.81.002   
+Identifiant Organisme de 
+Protection Sociale   
+SIRET URSAFF ou DMSAXX 
+S21.G00.81.003   Montant d'assiette   
+7860 
+S21.G00.81.004   Montant de cotisation   
+723,12 
+S21.G00.81.007   Taux de cotisation   
+9.20  
+ 
+ S21.G00.81 - Cotisation individuelle   
+Code   Rubrique   Valorisation   
+S21.G00.81.001   Code cotisation   
+079 - Remboursement de la dette 
+sociale   
+S21.G00.81.002   
+Identifiant  Organisme de Protection 
+Sociale   
+SIRET URSAFF ou DMSAXX   
+  S21.G00.81.003   Montant d'assiette   
+7860 
+  
+S21.G00.81.004   
+Montant de cotisation   
+39,30 
+  
+S21.G00.81.007   
+Taux de cotisation   
+0.50 
+ 
+ Versement d’une prime de partage de la valeur (PPV) de 3000€ pour un salaire > 3 SMIC, 
+dans  une  entreprise  de  plus  de  250  salariés  avec  placement  partiel  de  la  prime  sur  un 
+plan d’épargne  
+  
+L’employeur, verse le 28 mars 2024 la prime de partage de la valeur d'un montant de 3000 euros à un 
+individu qui perçoit une rémunération nette fiscale de 4800 euros.   
+Le taux de PAS que la DGFIP a communiqué à son employeur est de 15%.   
+Le salarié fait le choix de placer en partie (2500€) cette prime.   
+La prime est soumise à la CSG/CRDS, au forfait social 20% en totalité et à l'impôt sur le revenu pour la 
+part non placée.  
+  
+DSN de mars 2024 :   
+ 
+S21.G00.22 - Bordereau de cotisation due   
+  Code    Rubrique   Valorisation   
+  
+S21.G00.22.001   
+Identifiant  Organisme  de  Protection 
+Sociale   
+Siret de l'Urssaf   
+  
+S21.G00.22.002   
+  
+Entité d'affectation des opérations  
+A renseigner si nécessaire   
+  
+S21.G00.22.003   
+Date    de    début    de    période    de 
+rattachement   
+01032024  
+  
+S21.G00.22.004   
+Date     de     fin     de     période     de 
+rattachement   
+31032024  
+  
+S21.G00.22.005   
+Montant total de cotisations   
+Montant total de cotisations et 
+contributions   
+ 
+
+S21.G00.23 – Cotisation agrégée   
+ Code    Rubrique   Valorisation   
+ S21.G00.23.001   Code de cotisation   
+510   
+  
+S21.G00.23.002   
+Qualifiant d'assiette   920   
+  
+S21.G00.23.003   
+Taux de cotisation   
+Non renseigné   
+S21.G00.23.004   Montant d'assiette   3000.00   
+S21.G00.23.005   Montant de cotisation   
+Non renseigné   
+ 
+S21.G00.23 – Cotisation agrégée   
+Code    Rubrique   Valorisation   
+S21.G00.23.001   Code de cotisation   260   
+  S21.G00.23.002    Qualifiant d'assiette   920   
+S21.G00.23.003    Taux de cotisation   
+Non renseigné   
+S21.G00.23.004   Montant d'assiette   8843   
+S21.G00.23.005  Montant de cotisation   Non renseigné   
+ 
+S21.G00.23 – Cotisation agrégée   
+Code     Rubrique   Valorisation   
+S21.G00.23.001   Code de cotisation   012   
+S21.G00.23.002   Qualifiant d'assiette   920   
+S21.G00.23.003   Taux de cotisation   Non renseigné   
+S21.G00.23.004   Montant d'assiette   
+3000   
+S21.G00.23.005   Montant de cotisation   Non renseigné   
+ 
+S21.G00.50 - Versement individu   
+Code   Rubrique    Valorisation   
+S21.G00.50.001     Date de versement   
+28032024   
+S21.G00.50.002   
+  
+Rémunération nette fiscale   
+5266.59 (euros) [(4800+500 - (500 x 
+0.9825 x 0.068)]   
+  S21.G00.50.006   Taux de prélèvement à la source   
+15.00 (%)   
+  S21.G00.50.007   
+Type  du  taux  de  prélèvement  à  la 
+source   
+01 (taux transmis par la DGFIP)   
+S21.G00.50.008   
+Identifiant du taux de prélèvement à 
+la source   
+12345678 (valeur d'exemple)   
+S21.G00.50.009   
+Montant    de    prélèvement    à    la 
+source   
+789.99(euros)   
+ 
+S21.G00.51 - Rémunération   
+ Code   Rubrique   Valorisation   
+S21.G00.51.001   
+Date  de  début  de  période  de 
+paie   
+01032024   
+S21.G00.51.002   Date de fin de période de paie   
+31032024   
+S21.G00.51.010   Numéro du contrat   00001 (numéro de contrat du salarié)   
+S21.G00.51.011   Type   001 (Rémunération brute non plafonnée)   
+
+S21.G00.51.013   Montant   
+6000.00 (le montant de prime n'est pas à 
+ajouter)   
+ 
+S21.G00.51 - Rémunération   
+Code   Rubrique   Valorisation   
+S21.G00.51.001   
+Date  de  début  de  période  de 
+paie   
+01032024   
+  
+S21.G00.51.002   
+Date de fin de période de paie   
+31032024   
+S21.G00.51.010   Numéro du contrat   
+00001 (numéro de contrat du 
+salarié)   
+S21.G00.51.011   Type   
+002 (Salaire brut servant aux 
+calculs des droits de 
+l'Assurance chômage)   
+ S21.G00.51.013   Montant   
+6000.00 (le montant de prime 
+n'est pas à ajouter)   
+ 
+S21.G00.51 - Rémunération   
+Code   Rubrique   Valorisation   
+S21.G00.51.001   
+Date  de  début  de  période  de 
+paie   
+01032024   
+  
+S21.G00.51.002   
+Date de fin de période de paie   31032024   
+  
+S21.G00.51.010   
+Numéro du contrat   00001 (numéro de contrat du salarié)   
+  
+S21.G00.51.011   
+  
+Type   
+  
+003 (Salaire rétabli reconstitué)   
+S21.G00.51.013   Montant   
+6000.00 (le montant de prime n'est pas à 
+ajouter)   
+ 
+S21.G00.51 - Rémunération   
+ Code    Rubrique    Valorisation   
+S21.G00.51.001   
+Date  de  début  de  période  de 
+paie   
+01032024   
+  
+S21.G00.51.002   
+Date de fin de période de paie   31032024   
+  
+S21.G00.51.010   
+Numéro du contrat   00001 (numéro de contrat du salarié)   
+S21.G00.51.011   Type   010 (Salaire de base)   
+S21.G00.51.013   Montant   
+6000.00 (le montant de prime n'est pas à 
+ajouter)   
+ 
+S21.G00.52 - Prime, gratification et indemnité   
+ Code    Rubrique   Valorisation   
+S21.G00.52.001   Type   
+905 - Prime de partage de la valeur exonérée 
+socialement et imposable   
+S21.G00.52.002   Montant   
+500.00   
+S21.G00.52.003   
+Date de début de la période de 
+rattachement   
+01032024 
+S21.G00.52.004   
+Date  de  fin  de  la  période  de 
+rattachement   
+31032024 
+S21.G00.52.006   Numéro du contrat   00001 (numéro de contrat du salarié)   
+
+S21.G00.52.007   Date de versement d'origine   [Non renseignée]   
+ 
+S21.G00.52 - Prime, gratification et indemnité   
+Code   Rubrique    Valorisation   
+  
+S21.G00.52.001   
+Type   
+906 - Potentiel nouveau type 
+de prime A   
+S21.G00.52.002   Montant   2500.00   
+S21.G00.52.003   
+Date de début de la période de 
+rattachement   
+  
+01032024  
+ S21.G00.52.004   
+ Date  de  fin  de  la  période  de 
+rattachement   
+31032024 
+S21.G00.52.006   Numéro du contrat   
+00001 (numéro de contrat du 
+salarié) 
+S21.G00.52.007    Date de versement d'origine   [Non renseignée]   
+ 
+ S21.G00.78 - Base assujettie   
+ Code    Rubrique    Valorisation   
+S21.G00.78.001   Code base assujettie   
+04 (Assiette de la contribution sociale 
+généralisée)   
+S21.G00.78.002   
+  
+Montant   
+8842.5 ((6000+3000) X 0.9825)   
+S21.G00.78.003   
+Date   de   début   de période   de 
+rattachement   
+01032024   
+S21.G00.78.004   
+Date    de    fin    de    période    de 
+rattachement   
+31032024   
+S21.G00.78.006   Numéro de contrat   (Non renseignée)   
+ 
+S21.G00.81 - Cotisation individuelle   
+Code    Rubrique    Valorisation   
+S21.G00.81.001    Code cotisation   
+073 - CSG/CRDS sur participation 
+intéressement épargne salariale  
+S21.G00.81.002   
+Identifiant Organisme de 
+Protection Sociale   
+  
+SIRET URSAFF ou DMSAXX   
+S21.G00.81.003   Montant d'assiette   8842.5 ((6000+3000) X 0.9825)   
+S21.G00.81.004   
+  
+Montant de cotisation   
+813.51   
+S21.G00.81.007   Taux de cotisation   9.20   
+ 
+S21.G00.81 - Cotisation individuelle   
+ Code   Rubrique    Valorisation   
+S21.G00.81.001   Code cotisation   
+079 - Remboursement de la dette 
+sociale   
+S21.G00.81.002   
+Identifiant  Organisme de  Protection 
+Sociale   
+SIRET URSAFF ou DMSAXX   
+S21.G00.81.003   Montant d'assiette   
+8842.5 ((6000+3000) X 0.9825)   
+S21.G00.81.004   Montant de cotisation   44.21   
+S21.G00.81.007   Taux de cotisation   
+0.50   
+ 
+
+S21.G00.78 - Base assujettie   
+Code    Rubrique    Valorisation   
+S21.G00.78.001   Code base assujettie   
+05 - Assiette du forfait social  
+S21.G00.78.002   Montant   
+3000.00   
+S21.G00.78.003   Date de début de période de rattachement   01032024   
+S21.G00.78.004   Date de fin de période de rattachement   
+31032024   
+S21.G00.78.006   Numéro de contrat   (Non renseignée)   
+ 
+S21.G00.81 - Cotisation individuelle   
+ Code    Rubrique   Valorisation   
+ S21.G00.81.001   Code cotisation   
+071 - Contribution forfait social   
+S21.G00.81.002   Identifiant Organisme de Protection Sociale   
+SIRET URSAFF ou DMSAXX   
+S21.G00.81.003   Montant d'assiette   3000.00   
+S21.G00.81.004   Montant de cotisation   600.00   
+S21.G00.81.007   Taux de cotisation   
+20.00   
+ 
+ 
+ Déclaration du 2eme versement en cas de versement multiples de la prime de partage 
+de la valeur (PPV)  
+ 
+L'employeur verse une PPV d’un montant total de 900€ à un individu percevant une rémunération 
+brute de 2000€ correspondant à un net fiscal de 1600€, le taux de PAS que la DGFIP a communiqué à 
+son employeur est de 5%. La PPV fait l’objet de 2 versements :  
+ En janvier 2024 pour un montant de 500€  
+ En mars 2024 pour le complément de 400€  
+  
+La prime bénéficie ainsi d’une exonération de cotisations et contributions sociales ainsi que d'impôt 
+sur le revenu (dans la limite des plafonds totaux d’exonération) mais est prise en compte pour le calcul 
+du revenu fiscal de référence comme indiqué dans le tableau récapitulatif au-dessus.  
+  
+La décision unilatérale de l’employeur (DUE) instituant la PPV ne prévoyant que la date de versements 
+de janvier, la rubrique « Date de versement d'origine – S21.G00.52.007» sera alimentée.  
+  
+DSN de mars 2024 :  
+  
+ 
+S21.G00.22 - Bordereau de cotisation due  
+Code  Rubrique  Valorisation  
+S21.G00.22.001  
+Identifiant  Organisme  de  Protection 
+Sociale  
+Siret de l'Urssaf  
+S21.G00.22.002  Entité d'affectation des opérations  A renseigner si nécessaire  
+S21.G00.22.003  
+Date    de    début    de    période    de 
+rattachement  
+01032024 
+S21.G00.22.004  
+Date     de     fin     de     période     de 
+rattachement  
+31032024 
+S21.G00.22.005  Montant total de cotisations  
+Montant total de cotisations et 
+contributions  
+  
+
+S21.G00.23 – cotisation agrégée  
+Code   Rubrique  Valorisation  
+S21.G00.23.001  Code de cotisation  510  
+S21.G00.23.002  Qualifiant d'assiette  920  
+S21.G00.23.003  Taux de cotisation  Non renseigné  
+S21.G00.23.004  Montant d'assiette  400.00  
+S21.G00.23.005  Montant de cotisation  Non renseigné  
+ 
+S21.G00.50 - Versement individu  
+Code  Rubrique  Valorisation  
+S21.G00.50.001  Date de versement  31032024 
+S21.G00.50.002  Rémunération nette fiscale  
+1600.00 (Le montant de prime n'est 
+pas à ajouter)  
+S21.G00.50.006  Taux de prélèvement à la source  5.00 (%)  
+S21.G00.50.007  
+Type  du  taux  de  prélèvement  à  la 
+source  
+01 (taux transmis par la DGFIP)  
+S21.G00.50.008  
+Identifiant  du  taux  de  prélèvement  à 
+la source  
+12345678 (valeur d'exemple)  
+S21.G00.50.009  Montant de prélèvement à la source  80.00 (euros)  
+ 
+S21.G00.51 - Rémunération  
+Code  Rubrique  Valorisation  
+S21.G00.51.001  
+Date  de  début  de  période  de 
+paie  
+01032024 
+S21.G00.51.002  Date de fin de période de paie  31032024 
+S21.G00.51.010  Numéro du contrat  00001 (numéro de contrat du salarié)  
+S21.G00.51.011  Type  001 (Rémunération brute non plafonnée)  
+S21.G00.51.013  Montant  
+2000.00 (le montant de prime n'est pas à 
+ajouter)  
+ 
+S21.G00.51 - Rémunération  
+Code  Rubrique  Valorisation  
+S21.G00.51.001  
+Date de début de période 
+de paie  
+01032024  
+S21.G00.51.002  
+Date de fin de période de 
+paie  
+31032024 
+S21.G00.51.010  Numéro du contrat  00001 (numéro de contrat du salarié)  
+S21.G00.51.011  Type  
+002 (Salaire brut servant aux calculs des droits 
+de l'Assurance chômage 
+S21.G00.51.013  Montant  2000.00 (le montant de prime n'est pas à ajouter)  
+ 
+S21.G00.51 - Rémunération  
+Code  Rubrique  Valorisation  
+S21.G00.51.001  
+Date  de  début  de  période  de 
+paie  
+01032024  
+
+S21.G00.51.002  Date de fin de période de paie  31032024 
+S21.G00.51.010  Numéro du contrat  00001 (numéro de contrat du salarié)  
+S21.G00.51.011  Type  003 (Salaire rétabli reconstitué)  
+S21.G00.51.013  Montant  
+2000.00 (le montant de prime n'est pas à 
+ajouter)  
+ 
+S21.G00.51 - Rémunération  
+Code  Rubrique  Valorisation  
+S21.G00.51.001  
+Date  de  début  de  période  de 
+paie  
+01032024  
+S21.G00.51.002  Date de fin de période de paie  31032024   
+S21.G00.51.010  Numéro du contrat  00001 (numéro de contrat du salarié)  
+S21.G00.51.011  Type  010 (Salaire de base)  
+S21.G00.51.013  Montant  
+2000.00 (le montant de prime n'est pas à 
+ajouter)  
+ 
+S21.G00.52 - Prime, gratification et indemnité  
+Code  Rubrique  Valorisation  
+S21.G00.52.001  Type  
+904 - Prime de partage de la valeur exonérée 
+socialement et non imposable  
+S21.G00.52.002  Montant  
+400.00 [Correspond à la différence entre les 
+900 qui   
+auraient dû être versés et les 500 déjà 
+versés]   
+S21.G00.52.003  
+Date de début de la période de 
+rattachement  
+01032024  
+S21.G00.52.004  
+Date  de  fin  de  la  période  de 
+rattachement  
+31032024  
+S21.G00.52.006  Numéro du contrat  00001 (numéro de contrat du salarié)  
+S21.G00.52.007  Date de versement d'origine  31012024 
+ 
+ Déclaration tardive de la prime de partage de la valeur (PPV)  
+  
+L’employeur, dans une société de moins de 50 salariés, verse le 27 juillet 2024 une PPV de 3000 € à un 
+individu percevant une rémunération brute de 2000€ correspondant à un net fiscal de 1600€. Le taux 
+de  PAS  que  la  DGFIP  a  communiqué  à  son  employeur  est  de 5%. La prime bénéficie ainsi d’une 
+exonération de cotisations et contributions sociales ainsi que d'impôt sur le revenu (dans la limite des 
+plafonds totaux d’exonération) mais est prise en compte pour le calcul du revenu fiscal de référence 
+comme indiqué dans le tableau récapitulatif au-dessus.  
+ La déclaration du versement de la PPV n’intervient que sur la DSN de janvier 2025.  
+  
+DSN de janvier 2025  
+ 
+S21.G00.22 - Bordereau de cotisation due  
+Code  Rubrique  Valorisation  
+S21.G00.22.001  
+Identifiant  Organisme  de  Protection 
+Sociale  
+Siret de l'Urssaf  
+
+S21.G00.22.002  Entité d'affectation des opérations  A renseigner si nécessaire  
+S21.G00.22.003  
+Date    de    début    de    période    de 
+rattachement  
+01072024 
+S21.G00.22.004  
+Date     de     fin     de     période     de 
+rattachement  
+31072024 
+S21.G00.22.005  Montant total de cotisations  
+Montant total de cotisations et 
+contributions  
+ 
+S21.G00.23 – cotisation agrégée  
+Code   Rubrique  Valorisation  
+S21.G00.23.001  Code de cotisation  510  
+S21.G00.23.002  Qualifiant d'assiette  920  
+S21.G00.23.003  Taux de cotisation  Non renseigné  
+S21.G00.23.004  Montant d'assiette  3000.00  
+S21.G00.23.005  Montant de cotisation  Non renseigné  
+ 
+S21.G00.50 - Versement individu  
+Code  Rubrique  Valorisation  
+S21.G00.50.001  Date de versement  27012025 
+S21.G00.50.002  Rémunération nette fiscale  1600.00  
+S21.G00.50.006  Taux de prélèvement à la source  5.00 (%)  
+S21.G00.50.007  Type du taux de prélèvement à la source  
+01 (taux transmis par la 
+DGFIP)  
+S21.G00.50.008  
+Identifiant   du   taux   de   prélèvement   à   la 
+source  
+12345678 (valeur d'exemple)  
+S21.G00.50.009  Montant de prélèvement à la source  80.00 (euros)  
+ 
+S21.G00.51 - Rémunération  
+Code  Rubrique  Valorisation  
+S21.G00.51.001  Date de début de période de paie  01012025 
+S21.G00.51.002  Date de fin de période de paie  31012025 
+S21.G00.51.010  Numéro du contrat  00001 (numéro de contrat du salarié)  
+S21.G00.51.011  Type  001 (Rémunération brute non plafonnée)  
+S21.G00.51.013  Montant  2000.00   
+ 
+S21.G00.51 - Rémunération  
+Code  Rubrique  Valorisation  
+S21.G00.51.001  
+Date  de  début  de 
+période de paie  
+01012025   
+S21.G00.51.002  
+Date    de    fin    de 
+période de paie  
+31012025   
+S21.G00.51.010  Numéro du contrat  00001 (numéro de contrat du salarié)  
+S21.G00.51.011  Type  
+002 (Salaire brut servant aux calculs des droits de 
+l'Assurance chômage) 
+
+S21.G00.51.013  Montant  2000.00   
+ 
+S21.G00.51 - Rémunération  
+Code  Rubrique  Valorisation  
+S21.G00.51.001  Date de début de période de paie  01012025  
+S21.G00.51.002  Date de fin de période de paie  31012025  
+S21.G00.51.010  Numéro du contrat  00001 (numéro de contrat du salarié)  
+S21.G00.51.011  Type  003 (Salaire rétabli reconstitué)  
+S21.G00.51.013  Montant  2000.00  
+ 
+S21.G00.51 - Rémunération  
+Code  Rubrique  Valorisation  
+S21.G00.51.001  Date de début de période de paie   01012025  
+S21.G00.51.002  Date de fin de période de paie  31012025  
+S21.G00.51.010  Numéro du contrat  00001 (numéro de contrat du salarié)  
+S21.G00.51.011  Type  010 (Salaire de base)  
+S21.G00.51.013  Montant  2000.00  
+ 
+ 
+S21.G00.50 - Versement individu  
+Code  Rubrique  Valorisation  
+S21.G00.50.001  Date de versement  
+27072024 (date de versement effective 
+de la prime)  
+S21.G00.50.002  Rémunération nette fiscale  0.00  
+S21.G00.50.006  Taux de prélèvement à la source  0.00 (%)  
+S21.G00.50.007  
+Type  du  taux  de  prélèvement  à  la 
+source  
+DGFIP13 - barème métropole  
+S21.G00.50.008  
+Identifiant du taux de prélèvement à 
+la source  
+12345678 (valeur d'exemple)  
+S21.G00.50.009  Montant de prélèvement à la source  0.00 (euros)  
+ 
+S21.G00.52 - Prime, gratification et indemnité  
+Code  Rubrique  Valorisation  
+S21.G00.52.001  Type  
+904 - Prime de partage de la valeur exonérée 
+socialement et non imposable  
+S21.G00.52.002  Montant  3000.00  
+S21.G00.52.003  
+Date de début de la période de 
+rattachement  
+01072024 
+S21.G00.52.004  
+Date  de  fin  de  la  période  de 
+rattachement  
+31072024 
+S21.G00.52.006  Numéro du contrat  00001 (numéro de contrat du salarié)  
+S21.G00.52.007  Date de versement d'origine  [Non renseignée]  
+ 
+
+ Correction  d’une  erreur  déclarative  en  bloc  « Prime,  gratification  et  indemnité – 
+S21.G00.52 »  
+  
+L’employeur, verse en juillet 2024 la prime de partage de la valeur d'un montant de 3000 euros à un 
+individu percevant une rémunération brute de 6000€ correspondant à un net fiscal de 4800 euros. Le 
+taux de PAS que la DGFIP a communiqué à son employeur est de 15%.   
+La prime est soumise à la CSG/CRDS, au forfait social 20% et à l'impôt sur le revenu.  
+  
+La prime a été déclarée par erreur dans le bloc « Prime, gratification et indemnité - S21.G00.52 » en 
+utilisant le type « 904 – Prime de partage de la valeur exonérée socialement et non imposable » au lieu 
+du type « 905 – Prime de partage de la valeur exonérée socialement et imposable » en rubrique « Type 
+- S21.G00.52.001 ».   
+En revanche la prime a bien été soumise à CSG/CRDS, forfait social et impôt sur le revenu.  
+La correction de l’erreur déclarative est portée en DSN de décembre 2024.  
+ 
+DSN de décembre 2024 
+ 
+S21.G00.50 - Versement individu  
+Code  Rubrique  Valorisation  
+S21.G00.50.001  Date de versement  27122024  
+S21.G00.50.002  Rémunération nette fiscale  4800.00 (euros)  
+S21.G00.50.006  Taux de prélèvement à la source  15.00 (%)  
+S21.G00.50.007  Type du taux de prélèvement à la source  
+01 (taux transmis par la 
+DGFIP)  
+S21.G00.50.008  
+Identifiant   du   taux   de   prélèvement   à   la 
+source  
+12345678 (valeur d'exemple)  
+S21.G00.50.009  Montant de prélèvement à la source  720.00 (euros)  
+ 
+S21.G00.51 - Rémunération  
+Code  Rubrique  Valorisation  
+S21.G00.51.001  Date de début de période de paie  01122024 
+S21.G00.51.002  Date de fin de période de paie  31122024 
+S21.G00.51.010  Numéro du contrat  00001 (numéro de contrat du salarié)  
+S21.G00.51.011  Type  001 (Rémunération brute non plafonnée)  
+S21.G00.51.013  Montant  6000.00   
+ 
+S21.G00.51 - Rémunération  
+Code  Rubrique  Valorisation  
+S21.G00.51.001  
+Date     de     début     de 
+période de paie  
+01122024  
+S21.G00.51.002  
+Date  de  fin  de  période 
+de paie  
+31122024  
+S21.G00.51.010  Numéro du contrat  00001 (numéro de contrat du salarié)  
+S21.G00.51.011  Type  
+002 (Salaire brut servant aux calculs des droits de 
+l'Assurance chômage)   
+S21.G00.51.013  Montant  6000.00  
+
+ 
+S21.G00.51 - Rémunération  
+Code  Rubrique  Valorisation  
+S21.G00.51.001  Date de début de période de paie  01122024 
+S21.G00.51.002  Date de fin de période de paie  3112202  
+S21.G00.51.010  Numéro du contrat  00001 (numéro de contrat du salarié)  
+S21.G00.51.011  Type  003 (Salaire rétabli reconstitué)   
+S21.G00.51.013  Montant  6000.00  
+ 
+S21.G00.51 - Rémunération  
+Code  Rubrique  Valorisation  
+S21.G00.51.001  Date de début de période de paie  01122024  
+S21.G00.51.002  Date de fin de période de paie  31122024  
+S21.G00.51.010  Numéro du contrat  00001 (numéro de contrat du salarié)  
+S21.G00.51.011  Type  010 (Salaire de base)   
+S21.G00.51.013  Montant  6000.00  
+ 
+S21.G00.50 - Versement individu  
+Code  Rubrique  Valorisation  
+S21.G00.50.001  Date de versement  
+27072024(date de versement effective 
+de la prime)  
+S21.G00.50.002  Rémunération nette fiscale  0.00   
+S21.G00.50.006  Taux de prélèvement à la source  0.00 (%)  
+S21.G00.50.007  
+Type  du  taux  de  prélèvement  à  la 
+source  
+13 - barème métropole  
+S21.G00.50.008  
+Identifiant du taux de prélèvement à 
+la source  
+12345678 (valeur d'exemple)  
+S21.G00.50.009  Montant de prélèvement à la source  0.00 (euros)  
+ 
+S21.G00.52 - Prime, gratification et indemnité  
+Code  Rubrique  Valorisation  
+S21.G00.52.001  Type  
+904 - Prime de partage de la valeur exonérée 
+socialement et non imposable   
+S21.G00.52.002  Montant  -3000.00   
+S21.G00.52.003  
+Date de début de la période de 
+rattachement  
+01072024  
+S21.G00.52.004  
+Date  de  fin  de  la  période  de 
+rattachement  
+31072024  
+S21.G00.52.006  Numéro du contrat  00001 (numéro de contrat du salarié)  
+S21.G00.52.007  Date de versement d'origine  [Non renseignée]  
+ 
+S21.G00.52 - Prime, gratification et indemnité  
+Code  Rubrique  Valorisation  
+
+S21.G00.52.001  Type  
+905 - Prime de partage de la valeur 
+exonérée socialement et imposable  
+S21.G00.52.002  Montant  3000.00   
+S21.G00.52.003  
+Date de début de la période de 
+rattachement  
+01072024 
+S21.G00.52.004  
+Date  de  fin  de  la  période  de 
+rattachement  
+31072024  
+S21.G00.52.006  Numéro du contrat  00001 (numéro de contrat du salarié)  
+S21.G00.52.007  Date de versement d'origine  [Non renseignée]  
+ 
+ Réglementation  
+  
+L’article 1 de la loi n°2022-1158 du 16 août 2022 met en place la Prime de Partage de la Valeur (PPV) 
+qui permet à un employeur de verser une prime dont le montant d'exonération peut atteindre 3000 € 
+(ou 6000 € sous conditions) à partir du 1er juillet 2022.  
+  
+La Loi du 29 novembre 2023 prévoit également, à partir du 1er janvier 2024 la possibilité de placement 
+de la PPV dans un plan d’épargne salariale ou retraite, ainsi que la possibilité d’attribuer deux primes 
+au titre d’une même année civile dans la limite des plafonds totaux d’exonération (3000 ou 6000 euros 
+sous conditions).  
+  
+  
+ 
